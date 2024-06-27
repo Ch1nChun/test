@@ -4,25 +4,25 @@
       "Username": "Sxn1y1337",
       "UID": "0",
       "Subscription": "Active",
-      "IsBanned": "False",
+      "IsBanned": "False"
     },
     {
       "Username": "Masterking",
       "UID": "1",
       "Subscription": "Inactive",
-      "IsBanned": "True",
+      "IsBanned": "True"
     },
     {
       "Username": "Sorrowvibez",
       "UID": "2",
       "Subscription": "Inactive",
-      "IsBanned": "False",
+      "IsBanned": "False"
     },
     {
       "Username": "Stat1que",
       "UID": "3",
       "Subscription": "Active",
-      "IsBanned": "False",
+      "IsBanned": "False"
     }
   ]
 }

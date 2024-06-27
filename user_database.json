@@ -5,36 +5,24 @@
       "UID": "0",
       "Subscription": "Active",
       "IsBanned": "False",
-      "Alpha": "True",
-      "Beta": "False",
-      "Stable": "True"
     },
     {
       "Username": "Masterking",
       "UID": "1",
       "Subscription": "Inactive",
       "IsBanned": "False",
-      "Alpha": "False",
-      "Beta": "True",
-      "Stable": "True"
     },
     {
       "Username": "Sorrowvibez",
       "UID": "2",
       "Subscription": "Inactive",
       "IsBanned": "False",
-      "Alpha": "True",
-      "Beta": "True",
-       "Stable": "True"
     },
     {
       "Username": "Stat1que",
       "UID": "3",
       "Subscription": "Active",
       "IsBanned": "False",
-      "Alpha": "False",
-      "Beta": "False",
-      "Stable": "True"
     }
   ]
 }
